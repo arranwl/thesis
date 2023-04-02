@@ -1,1 +1,3 @@
+Both the raw fire and weather data is omitted due to size limits of github. To download fire data, see fire_data_source.txt. 
 
+To download the weather data, please run scraping_weather_data.ipynb.
