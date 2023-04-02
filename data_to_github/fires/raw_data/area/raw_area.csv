@@ -1,0 +1,43 @@
+"Geographic code","Geographic name","CD type","Province or territory","Incompletely enumerated Indian reserves and Indian settlements, 2016","Population, 2016","Population, 2011","2011 adjusted population flag","Population, % change","Total private dwellings, 2016","Private dwellings occupied by usual residents, 2016","Land area in square kilometres, 2016","Population density per square kilometre, 2016","National population rank, 2016","Provincial/territorial population rank, 2016"
+"01","Canada",,,T,35151728,33476688,F,5.0,15412443,14072079,8965588.85,3.9,,
+59,British Columbia,,,T,4648055,4400057,F,5.6,2063417,1881969,922503.01,5.0,,
+"5915","Greater Vancouver",Regional district (RD),"British Columbia",F,2463431,2313328,F,6.5,1027613,960894,2882.68,854.6,2,1
+"5917","Capital",Regional district (RD),"British Columbia",T,383360,359991,F,6.5,183562,170157,2340.49,163.8,22,2
+"5909","Fraser Valley",Regional district (RD),"British Columbia",F,295934,277593,F,6.6,116080,108393,13335.28,22.2,24,3
+"5935","Central Okanagan",Regional district (RD),"British Columbia",F,194882,179839,F,8.4,88374,81383,2904.86,67.1,30,4
+"5921","Nanaimo",Regional district (RD),"British Columbia",F,155698,146574,F,6.2,73622,68904,2038.04,76.4,38,5
+"5933","Thompson-Nicola",Regional district (RD),"British Columbia",F,132663,128471,T,3.3,62157,55504,44449.42,3.0,48,6
+"5953","Fraser-Fort George",Regional district (RD),"British Columbia",F,94506,91879,F,2.9,41666,38600,50676.10,1.9,67,7
+"5937","North Okanagan",Regional district (RD),"British Columbia",F,84354,81237,F,3.8,39970,35875,7502.60,11.2,75,8
+"5919","Cowichan Valley",Regional district (RD),"British Columbia",F,83739,80332,F,4.2,37919,35272,3474.52,24.1,76,9
+"5907","Okanagan-Similkameen",Regional district (RD),"British Columbia",F,83022,80742,F,2.8,42894,37673,10411.68,8.0,78,10
+"5926","Comox Valley",Regional district (RD),"British Columbia",F,66527,63538,F,4.7,32076,29573,1699.90,39.1,97,11
+"5955","Peace River",Regional district (RD),"British Columbia",F,62942,60082,F,4.8,28746,24264,117387.55,0.5,100,12
+"5941","Cariboo",Regional district (RD),"British Columbia",F,61988,62392,F,-0.6,31680,26699,80609.75,0.8,101,13
+"5901","East Kootenay",Regional district (RD),"British Columbia",F,60439,56685,F,6.6,34197,25863,27541.84,2.2,106,14
+"5903","Central Kootenay",Regional district (RD),"British Columbia",F,59517,58441,F,1.8,30726,27016,22094.94,2.7,107,15
+"5939","Columbia-Shuswap",Regional district (RD),"British Columbia",F,51366,50512,F,1.7,29798,22454,28929.19,1.8,117,16
+"5924","Strathcona",Regional district (RD),"British Columbia",F,44671,43252,F,3.3,21681,19610,18278.06,2.4,131,17
+"5931","Squamish-Lillooet",Regional district (RD),"British Columbia",F,42665,38173,T,11.8,23965,16416,16311.62,2.6,139,18
+"5951","Bulkley-Nechako",Regional district (RD),"British Columbia",F,37896,39208,F,-3.3,17564,15101,73361.00,0.5,153,19
+"5949","Kitimat-Stikine",Regional district (RD),"British Columbia",F,37367,37361,F,0.0,16922,14822,104464.61,0.4,154,20
+"5905","Kootenay Boundary",Regional district (RD),"British Columbia",F,31447,31138,F,1.0,18321,14339,8084.52,3.9,173,21
+"5923","Alberni-Clayoquot",Regional district (RD),"British Columbia",F,30981,31061,F,-0.3,15490,13654,6589.15,4.7,176,22
+"5929","Sunshine Coast",Regional district (RD),"British Columbia",F,29970,28619,F,4.7,17379,13995,3773.73,7.9,182,23
+"5927","Powell River",Regional district (RD),"British Columbia",F,20070,19906,F,0.8,11400,9412,5075.33,4.0,223,24
+"5947","Skeena-Queen Charlotte",Regional district (RD),"British Columbia",F,18133,18784,F,-3.5,8911,7413,19775.41,0.9,233,25
+"5943","Mount Waddington",Regional district (RD),"British Columbia",F,11035,11506,F,-4.1,5963,4850,20244.27,0.5,267,26
+"5959","Northern Rockies",Regional district (RD),"British Columbia",F,5393,5578,F,-3.3,2593,2182,85111.07,0.1,287,27
+"5945","Central Coast",Regional district (RD),"British Columbia",F,3319,3206,F,3.5,1531,1284,24491.85,0.1,288,28
+"5957","Stikine",Region (REG),"British Columbia",F,740,629,F,17.6,617,367,118663.53,0.0,293,29
+
+Note:
+"Incompletely enumerated Indian reserves and Indian settlements, 2016","T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"2011 adjusted population flag","T = adjusted figure due to boundary change."
+"For further information, refer to: http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/About.cfm."
+
+"Source: Statistics Canada, 2016 Census of Population."
+"How to cite: Statistics Canada. 2017. Population and dwelling counts, for Canada, provinces and territories, and census divisions, 2016 and 2011 censuses (table). Population and Dwelling Count Highlight Tables. 2016 Census."
+"Statistics Canada Catalogue no. 98-402-X2016001. Ottawa. Released February 8, 2017."
+"http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/File.cfm?T=701&SR=1&RPP=9999&PR=59&CMA=0&CSD=0&S=3&O=D&Lang=Eng&OFT=CSV (accessed March 25, 2023)"
+
